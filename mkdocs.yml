@@ -1,0 +1,4 @@
+site_name: Nomad Desk — Offshore Banking Setup
+docs_dir: docs/docs/docs/docs
+nav:
+  - Home: index.md
